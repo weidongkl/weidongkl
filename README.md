@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @weidongkl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Weidong! 👋
 
-<!---
-weidongkl/weidongkl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software developer with a keen interest in open-source projects and cutting-edge technologies. I love to explore new programming languages, frameworks, and tools. Here is a bit about me:
+
+## 🔭 Current Projects
+- **[go-firewalld](https://github.com/weidongkl/go-firewalld)**: firewalld go client.
+- **[logrus-formatter](https://github.com/weidongkl/logrus-formatter)**: Defining Logrus log format to include file and line number.
+
+## 📫 How to reach me
+- Email: [weidongkx@gmail.com](mailto:weidongkx@gmail.com)
+
+## 📊 GitHub Stats
+![weidongkl's GitHub stats](https://github-readme-stats.vercel.app/api?username=weidongkl&show_icons=true&count_private=true)
