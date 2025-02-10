@@ -10,4 +10,4 @@ I'm a passionate software developer with a keen interest in open-source projects
 - Email: [weidongkx@gmail.com](mailto:weidongkx@gmail.com)
 
 ## 📊 GitHub Stats
-![weidongkl's GitHub stats](https://github-readme-stats.vercel.app/api?username=weidongkl&show_icons=true&count_private=true)
+![weidongkl's GitHub stats](https://github-readme-stats.vercel.app/api?username=weidongkl&show_icons=true&count_private=true&include_all_commits=true)
